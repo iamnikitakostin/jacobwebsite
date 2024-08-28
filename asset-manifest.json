@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/jacobwebsite/static/css/main.bd80cd12.css",
-    "main.js": "/jacobwebsite/static/js/main.388cbdff.js",
+    "main.css": "/jacobwebsite/static/css/main.edc05848.css",
+    "main.js": "/jacobwebsite/static/js/main.896ad3e7.js",
     "static/js/453.7ab7a1c7.chunk.js": "/jacobwebsite/static/js/453.7ab7a1c7.chunk.js",
     "static/media/banner.jpg": "/jacobwebsite/static/media/banner.f635cb27e471f829c5ef.jpg",
+    "static/media/aboutUs.jpg": "/jacobwebsite/static/media/aboutUs.51a543970176c1a729a8.jpg",
     "static/media/logo.png": "/jacobwebsite/static/media/logo.9080acdc51bf87088b60.png",
     "index.html": "/jacobwebsite/index.html",
-    "main.bd80cd12.css.map": "/jacobwebsite/static/css/main.bd80cd12.css.map",
-    "main.388cbdff.js.map": "/jacobwebsite/static/js/main.388cbdff.js.map",
+    "main.edc05848.css.map": "/jacobwebsite/static/css/main.edc05848.css.map",
+    "main.896ad3e7.js.map": "/jacobwebsite/static/js/main.896ad3e7.js.map",
     "453.7ab7a1c7.chunk.js.map": "/jacobwebsite/static/js/453.7ab7a1c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd80cd12.css",
-    "static/js/main.388cbdff.js"
+    "static/css/main.edc05848.css",
+    "static/js/main.896ad3e7.js"
   ]
 }
