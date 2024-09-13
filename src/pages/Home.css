@@ -1,0 +1,8 @@
+.spinner-container {
+    transition: opacity 1s ease-out;
+  }
+  
+  .spinner-container.fade-out {
+    opacity: 0;
+  }
+  

@@ -4,7 +4,7 @@ import Banner from '../components/Banner'
 
 function Landing() {
   return (
-    <div className='flex flex-col h-[85vh]'>
+    <div className='flex flex-col h-[85vh]' id="home">
       <Header />
       <Banner />
     </div>

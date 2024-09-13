@@ -19,6 +19,7 @@ const ContactUs = () => {
           <button className="bg-[#E56A1A] text-white px-6 py-2 rounded-lg">Send Message</button>
         </form>
       </div>
+      <p className='text-center mt-8'>2024 © Developed by <a href='https://nikitakostin.com/' target='_blank' rel='noreferrer' className='text-orange-500 underline'>Nikita Kostin</a></p>
     </section>
   );
 };
